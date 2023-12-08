@@ -4,13 +4,13 @@
 
 
  ### Languages
-- ![stack PHP](![Static Badge](https://img.shields.io/badge/PHP-white?logo=php)
-- ![stack Symfony](![Static Badge](https://img.shields.io/badge/Symfony-black?logo=symfony)
-- ![stack JS](![Static Badge](https://img.shields.io/badge/Javascript-black?logo=Javascript))
-- ![stack HTML](![Static Badge](https://img.shields.io/badge/HTML-black?logo=html5)
-- ![stack Sass]![Static Badge](https://img.shields.io/badge/Sass-black?logo=sass)
-- ![stack CSS]![Static Badge](https://img.shields.io/badge/CSS-blue?logo=css3)
-- ![stack Bootstrap]![Static Badge](https://img.shields.io/badge/Bootstrap-black?logo=bootstrap)
+- ![Static Badge](https://img.shields.io/badge/PHP-white?logo=php)
+- ![Static Badge](https://img.shields.io/badge/Symfony-black?logo=symfony)
+- ![Static Badge](https://img.shields.io/badge/Javascript-black?logo=Javascript))
+- ![Static Badge](https://img.shields.io/badge/HTML-black?logo=html5)
+- ![Static Badge](https://img.shields.io/badge/Sass-black?logo=sass)
+- ![Static Badge](https://img.shields.io/badge/CSS-blue?logo=css3)
+- ![Static Badge](https://img.shields.io/badge/Bootstrap-black?logo=bootstrap)
 - ![Static Badge](https://img.shields.io/badge/React-black?logo=react)
 - ![Static Badge](https://img.shields.io/badge/mysql-white?logo=mysql)
 - ![Static Badge](https://img.shields.io/badge/mariadb-%23003545?logo=mariadb)
