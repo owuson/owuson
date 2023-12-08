@@ -6,7 +6,7 @@
  ### Languages
 - ![Static Badge](https://img.shields.io/badge/PHP-white?logo=php)
 - ![Static Badge](https://img.shields.io/badge/Symfony-black?logo=symfony)
-- ![Static Badge](https://img.shields.io/badge/Javascript-black?logo=Javascript))
+- ![Static Badge](https://img.shields.io/badge/Javascript-black?logo=Javascript)
 - ![Static Badge](https://img.shields.io/badge/HTML-black?logo=html5)
 - ![Static Badge](https://img.shields.io/badge/Sass-black?logo=sass)
 - ![Static Badge](https://img.shields.io/badge/CSS-blue?logo=css3)
